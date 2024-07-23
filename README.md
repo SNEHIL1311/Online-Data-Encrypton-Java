@@ -59,7 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 - [Java](https://www.java.com/) for its robust backend capabilities.
 - [JSP](https://www.oracle.com/java/technologies/java-server-pages.html) for dynamic content generation.
 
-## Contact
-
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
 
